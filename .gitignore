@@ -1,0 +1,19 @@
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules
+jspm_packages
+demo
+
+# Optional npm cache directory
+.npm
+
