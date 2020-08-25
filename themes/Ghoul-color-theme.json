@@ -29,18 +29,46 @@
     "sideBar.background": "#010002",
     "sideBar.foreground": "#F6F7E9",
     "sideBar.border": "#334A99",
-    "sideBarSectionHeader.background": "#334999",
+    "sideBarSectionHeader.background": "#1D2749",
     "sideBarSectionHeader.foreground": "#F6F7E9",
     "sideBarTitle.foreground": "#F6F7E9",
 
     // Badge.
-    "badge.background": "#f2665e",
-    "badge.foreground": "#fffdf2",
+    "badge.background": "#BF40CE",
+    "badge.foreground": "#F6F7E9",
+
+    // Lists and Trees.
+    // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_lists-and-trees
+    "list.dropBackground": "#1D2749",
+    "list.activeSelectionBackground": "#1D2749",
+    "list.activeSelectionForeground": "#F6F7E9",
+    "list.focusBackground": "#1D2749",
+    "list.focusForeground": "#F6F7E9",
+    "list.highlightForeground": "#BF40CE",
+    "list.hoverBackground": "#334A99",
+    "list.hoverForeground": "#F6F7E9",
+    "list.inactiveSelectionBackground": "#010002",
+    "list.inactiveSelectionForeground": "#F6F7E9",
 
     // Button.
     "button.background": "#4b2245",
     "button.foreground": "#fffdf2",
-    "button.hoverBackground": "#a996d0"
+    "button.hoverBackground": "#a996d0",
+
+    // Status Bar Colors.
+    // The Status Bar is shown in the bottom of the workbench.
+    // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_status-bar-colors
+    "statusBar.border": "#1E1E3F",
+    "statusBar.background": "#00C0FF",
+    "statusBar.foreground": "#000002",
+    "statusBar.debuggingBackground": "#FAD000",
+    "statusBar.debuggingForeground": "#1E1E3F",
+    "statusBar.noFolderBackground": "#1E1E3F",
+    "statusBar.noFolderForeground": "#A599E9",
+    "statusBarItem.activeBackground": "#4D21FC",
+    "statusBarItem.hoverBackground": "#4D21FC",
+    "statusBarItem.prominentBackground": "#1E1E3F",
+    "statusBarItem.prominentHoverBackground": "#2D2B55"
   },
   "tokenColors": [
     {
