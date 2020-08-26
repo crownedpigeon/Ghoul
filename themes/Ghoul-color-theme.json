@@ -20,7 +20,7 @@
     "activityBar.background": "#010002",
     "activityBar.dropBackground": "#9745A1",
     "activityBar.foreground": "#F6F7E9",
-    "activityBar.border": "#334A99",
+    "activityBar.border": "#010002",
     "activityBar.inactiveForeground": "#334999",
     "activityBarBadge.background": "#BF40CE",
     "activityBarBadge.foreground": "#F6F7E9",
@@ -28,10 +28,10 @@
     //Sidebar
     "sideBar.background": "#010002",
     "sideBar.foreground": "#F6F7E9",
-    "sideBar.border": "#334A99",
-    "sideBarSectionHeader.background": "#1D2749",
+    "sideBar.border": "#010002",
+    "sideBarSectionHeader.background": "#010002",
     "sideBarSectionHeader.foreground": "#F6F7E9",
-    "sideBarTitle.foreground": "#F6F7E9",
+    "sideBarTitle.foreground": "#00C0FF",
 
     // Badge.
     "badge.background": "#BF40CE",
@@ -40,12 +40,12 @@
     // Lists and Trees.
     // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_lists-and-trees
     "list.dropBackground": "#1D2749",
-    "list.activeSelectionBackground": "#1D2749",
+    "list.activeSelectionBackground": "#BF40CE",
     "list.activeSelectionForeground": "#F6F7E9",
     "list.focusBackground": "#1D2749",
     "list.focusForeground": "#F6F7E9",
     "list.highlightForeground": "#BF40CE",
-    "list.hoverBackground": "#334A99",
+    "list.hoverBackground": "#7A3582",
     "list.hoverForeground": "#F6F7E9",
     "list.inactiveSelectionBackground": "#010002",
     "list.inactiveSelectionForeground": "#F6F7E9",
@@ -61,14 +61,35 @@
     "statusBar.border": "#1E1E3F",
     "statusBar.background": "#00C0FF",
     "statusBar.foreground": "#000002",
-    "statusBar.debuggingBackground": "#FAD000",
-    "statusBar.debuggingForeground": "#1E1E3F",
+    "statusBar.debuggingBackground": "#FFE146",
+    "statusBar.debuggingForeground": "#000002",
     "statusBar.noFolderBackground": "#1E1E3F",
     "statusBar.noFolderForeground": "#A599E9",
-    "statusBarItem.activeBackground": "#4D21FC",
-    "statusBarItem.hoverBackground": "#4D21FC",
+    "statusBarItem.activeBackground": "#BF40CE",
+    "statusBarItem.hoverBackground": "#F6F7E9",
     "statusBarItem.prominentBackground": "#1E1E3F",
-    "statusBarItem.prominentHoverBackground": "#2D2B55"
+    "statusBarItem.prominentHoverBackground": "#2D2B55",
+
+    // Editor Groups & Tabs.
+    "editorGroup.border": "#222244",
+    "editorGroup.dropBackground": "#222244D0",
+    // The editorGroupHeader.
+    "editorGroupHeader.noTabsBackground": "#2D2B55",
+    "editorGroupHeader.tabsBackground": "#2D2B55",
+    "editorGroupHeader.tabsBorder": "#1F1F41",
+    // The tabs
+    "tab.activeBackground": "#222244",
+    "tab.activeForeground": "#FFFFFF",
+    "tab.border": "#1E1E3F",
+    "tab.activeBorder": "#FAD000",
+    "tab.inactiveBackground": "#2D2B55",
+    "tab.inactiveForeground": "#A599E9",
+    "tab.unfocusedActiveForeground": "#A599E9",
+    "tab.unfocusedInactiveForeground": "#A599E9",
+    "tab.activeModifiedBorder": "#A599E9",
+    "tab.inactiveModifiedBorder": "#A599E966",
+    "tab.unfocusedActiveModifiedBorder": "#A599E966",
+    "tab.unfocusedInactiveModifiedBorder": "#A599E966"
   },
   "tokenColors": [
     {
