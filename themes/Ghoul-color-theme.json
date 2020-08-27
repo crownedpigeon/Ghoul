@@ -70,26 +70,25 @@
     "statusBarItem.prominentBackground": "#1E1E3F",
     "statusBarItem.prominentHoverBackground": "#2D2B55",
 
-    // Editor Groups & Tabs.
-    "editorGroup.border": "#222244",
-    "editorGroup.dropBackground": "#222244D0",
-    // The editorGroupHeader.
-    "editorGroupHeader.noTabsBackground": "#2D2B55",
-    "editorGroupHeader.tabsBackground": "#2D2B55",
-    "editorGroupHeader.tabsBorder": "#1F1F41",
+    // Editor Groups
+    "editorGroup.border": "#000002",
+    "editorGroup.dropBackground": "#334999D0",
+
+    // Editor Group Header
+    "editorGroupHeader.noTabsBackground": "#000002",
+    "editorGroupHeader.tabsBackground": "#000002",
+    "editorGroupHeader.tabsBorder": "#000002",
+
     // The tabs
-    "tab.activeBackground": "#222244",
+    "tab.activeBackground": "#000002",
     "tab.activeForeground": "#FFFFFF",
-    "tab.border": "#1E1E3F",
-    "tab.activeBorder": "#FAD000",
-    "tab.inactiveBackground": "#2D2B55",
-    "tab.inactiveForeground": "#A599E9",
-    "tab.unfocusedActiveForeground": "#A599E9",
-    "tab.unfocusedInactiveForeground": "#A599E9",
-    "tab.activeModifiedBorder": "#A599E9",
-    "tab.inactiveModifiedBorder": "#A599E966",
-    "tab.unfocusedActiveModifiedBorder": "#A599E966",
-    "tab.unfocusedInactiveModifiedBorder": "#A599E966"
+    "tab.border": "#000002",
+    "tab.activeBorder": "#BF40CE",
+    "tab.inactiveBackground": "#010002",
+    "tab.inactiveForeground": "#334999",
+    "tab.unfocusedActiveForeground": "#334999",
+    "tab.unfocusedInactiveForeground": "#334999",
+    "tab.unfocusedActiveBorder": "#010002"
   },
   "tokenColors": [
     {
