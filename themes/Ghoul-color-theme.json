@@ -10,9 +10,9 @@
     // "contrastBorder": "#122d42",
 
     //Base Colors
-    "focusBorder": "#BF40CE",
+    "focusBorder": "#CA347F",
     "foreground": "#F6F7E9",
-    "widget.shadow": "#334999",
+    "widget.shadow": "#000000",
     "selection.background": "#9745A1",
     "descriptionForeground": "#F6F7E9",
 
@@ -21,9 +21,9 @@
     "activityBar.dropBackground": "#9745A1",
     "activityBar.foreground": "#F6F7E9",
     "activityBar.border": "#010002",
-    "activityBar.inactiveForeground": "#334999",
-    "activityBarBadge.background": "#BF40CE",
-    "activityBarBadge.foreground": "#F6F7E9",
+    "activityBar.inactiveForeground": "#9F51CC",
+    "activityBarBadge.background": "#46BAAD",
+    "activityBarBadge.foreground": "#3E4118",
 
     //Sidebar
     "sideBar.background": "#010002",
@@ -31,21 +31,21 @@
     "sideBar.border": "#010002",
     "sideBarSectionHeader.background": "#010002",
     "sideBarSectionHeader.foreground": "#F6F7E9",
-    "sideBarTitle.foreground": "#00C0FF",
+    "sideBarTitle.foreground": "#46BAAD",
 
     // Badge.
-    "badge.background": "#BF40CE",
-    "badge.foreground": "#F6F7E9",
+    "badge.background": "#46BAAD",
+    "badge.foreground": "#3E4118",
 
     // Lists and Trees.
     // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_lists-and-trees
     "list.dropBackground": "#1D2749",
-    "list.activeSelectionBackground": "#BF40CE",
+    "list.activeSelectionBackground": "#CA347F",
     "list.activeSelectionForeground": "#F6F7E9",
     "list.focusBackground": "#1D2749",
     "list.focusForeground": "#F6F7E9",
-    "list.highlightForeground": "#BF40CE",
-    "list.hoverBackground": "#7A3582",
+    "list.highlightForeground": "#CA347F",
+    "list.hoverBackground": "#A8547E",
     "list.hoverForeground": "#F6F7E9",
     "list.inactiveSelectionBackground": "#010002",
     "list.inactiveSelectionForeground": "#F6F7E9",
@@ -58,15 +58,15 @@
     // Status Bar Colors.
     // The Status Bar is shown in the bottom of the workbench.
     // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_status-bar-colors
-    "statusBar.border": "#1E1E3F",
-    "statusBar.background": "#00C0FF",
-    "statusBar.foreground": "#000002",
-    "statusBar.debuggingBackground": "#FFE146",
-    "statusBar.debuggingForeground": "#000002",
-    "statusBar.noFolderBackground": "#1E1E3F",
-    "statusBar.noFolderForeground": "#A599E9",
-    "statusBarItem.activeBackground": "#BF40CE",
-    "statusBarItem.hoverBackground": "#F6F7E9",
+    "statusBar.border": "#010002",
+    "statusBar.background": "#46BAAD",
+    "statusBar.foreground": "#3E4118",
+    "statusBar.debuggingBackground": "#010002",
+    "statusBar.debuggingForeground": "#FFD55F",
+    "statusBar.noFolderBackground": "#010002",
+    "statusBar.noFolderForeground": "#D1ACFF",
+    "statusBarItem.activeBackground": "#CA347F",
+    "statusBarItem.hoverBackground": "#67CCC1",
     "statusBarItem.prominentBackground": "#1E1E3F",
     "statusBarItem.prominentHoverBackground": "#2D2B55",
 
@@ -83,11 +83,11 @@
     "tab.activeBackground": "#000002",
     "tab.activeForeground": "#FFFFFF",
     "tab.border": "#000002",
-    "tab.activeBorder": "#BF40CE",
+    "tab.activeBorder": "#CA347F",
     "tab.inactiveBackground": "#010002",
-    "tab.inactiveForeground": "#334999",
-    "tab.unfocusedActiveForeground": "#334999",
-    "tab.unfocusedInactiveForeground": "#334999",
+    "tab.inactiveForeground": "#9F51CC",
+    "tab.unfocusedActiveForeground": "#9F51CC",
+    "tab.unfocusedInactiveForeground": "#9F51CC",
     "tab.unfocusedActiveBorder": "#010002"
   },
   "tokenColors": [
