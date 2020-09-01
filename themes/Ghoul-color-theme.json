@@ -4,6 +4,8 @@
   "colors": {
     "editor.background": "#000002",
     "editor.foreground": "#F6F7E9",
+    "editorLineNumber.foreground": "#786BAD", // Color of editor line numbers.
+    "editorCursor.foreground": "#CA347F", //  Color of the editor cursor.
 
     //TODO : Contrast Colors
     // "contrastActiveBorder": null,
@@ -12,16 +14,21 @@
     //Base Colors
     "focusBorder": "#CA347F",
     "foreground": "#F6F7E9",
-    "widget.shadow": "#000000",
-    "selection.background": "#9745A1",
+    "errorForeground": "#CA347F",
+    "selection.background": "#46BAAD",
     "descriptionForeground": "#F6F7E9",
+
+    // Dropdown
+    "dropdown.background": "#000002",
+    "dropdown.listBackground": "#000002",
+    "dropdown.foreground": "#F6F7E9",
 
     //Activity Bar
     "activityBar.background": "#010002",
     "activityBar.dropBackground": "#9745A1",
     "activityBar.foreground": "#F6F7E9",
     "activityBar.border": "#010002",
-    "activityBar.inactiveForeground": "#9F51CC",
+    "activityBar.inactiveForeground": "#786BAD",
     "activityBarBadge.background": "#46BAAD",
     "activityBarBadge.foreground": "#3E4118",
 
@@ -45,15 +52,15 @@
     "list.focusBackground": "#1D2749",
     "list.focusForeground": "#F6F7E9",
     "list.highlightForeground": "#CA347F",
-    "list.hoverBackground": "#A8547E",
+    "list.hoverBackground": "#242226",
     "list.hoverForeground": "#F6F7E9",
     "list.inactiveSelectionBackground": "#010002",
     "list.inactiveSelectionForeground": "#F6F7E9",
 
     // Button.
-    "button.background": "#4b2245",
-    "button.foreground": "#fffdf2",
-    "button.hoverBackground": "#a996d0",
+    "button.background": "#CA347F",
+    "button.foreground": "#F6F7E9",
+    "button.hoverBackground": "#DE5D9D",
 
     // Status Bar Colors.
     // The Status Bar is shown in the bottom of the workbench.
@@ -85,10 +92,10 @@
     "tab.border": "#000002",
     "tab.activeBorder": "#CA347F",
     "tab.inactiveBackground": "#010002",
-    "tab.inactiveForeground": "#9F51CC",
-    "tab.unfocusedActiveForeground": "#9F51CC",
-    "tab.unfocusedInactiveForeground": "#9F51CC",
-    "tab.unfocusedActiveBorder": "#010002"
+    "tab.inactiveForeground": "#7D7089",
+    "tab.unfocusedActiveForeground": "#F6F7E9",
+    "tab.unfocusedInactiveForeground": "#7D7089",
+    "tab.unfocusedActiveBorder": "#CA347F"
   },
   "tokenColors": [
     {
